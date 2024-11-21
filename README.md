@@ -1,4 +1,5 @@
 Ejercicio 1 
+
 ![image](https://github.com/user-attachments/assets/5105e868-f22f-4153-bdb4-8530cdafea52)
 ![image](https://github.com/user-attachments/assets/7b484022-3a77-4a8d-b21c-fe1670c590fd)
 
@@ -6,6 +7,7 @@ Solucion: Se crea una funcion que recibe un numero en forma de int o str, un ope
 se usa un eval para evaluar la operacion y que de un resultado.
 
 Ejercicio 2
+
 ![image](https://github.com/user-attachments/assets/c1d267aa-029f-4fd0-a971-5d3a9a65db24)
 ![image](https://github.com/user-attachments/assets/d336cdba-f20b-4ee8-be51-7ffb4da41166)
 
@@ -30,7 +32,7 @@ Ejercicio 4
 Solucion: Suma el primer numero con el siguiente hasta acabar la lista, se guardan las sumas en una lista y luego sort para ordenar de menor a
 mayor las sumas realizadas; Se elije el ultimo numero de la lista
 
-Ejercicio 5
+
 
 
 
